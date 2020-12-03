@@ -8,7 +8,6 @@ with open("map.txt") as f:
 tree_count = 0
 toboggan_index = 0
 
-# First line doesn't matter
 for pos in forest:
     line_size = len(pos) 
 
